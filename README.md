@@ -15,3 +15,5 @@
 - I expect this program to improve in the future, but also to don't become to complex as these codes just keep it fast and easy to the system to manage  big data.
 
 
+# Requierements:
+- Python.
